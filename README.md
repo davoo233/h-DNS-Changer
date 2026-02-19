@@ -2,7 +2,8 @@ A professional DNS CHANGER for GAMES
 
 h/ DNS Changer v.1 only available for Windows 11/10 ( Not available for Android or ios ).✨
 
- download 🌠 →→→→ →→→→→→→→ →→→→→→
+ download 🌠 →→→→ →→→→→→→→ →→→→→→ https://github.com/davoo233/h-DNS-Changer/releases/tag/h%2Fdns_changer
+ 
  
 <img width="400" height="500" alt="Snipaste_2026-02-19_23-05-44" src="https://github.com/user-attachments/assets/531f2da9-43d2-4586-8250-9f7ec7666179" />
 
