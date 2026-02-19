@@ -4,7 +4,8 @@ h/ DNS Changer v.1 only available for Windows 11/10 ( Not available for Android 
 
  download 🌠 →→→→ →→→→→→→→ →→→→→→
  
-<img width="267" height="265" alt="Snipaste_2026-02-16_02-59-03" src="https://github.com/user-attachments/assets/7f786412-945b-4718-841a-41d1c9e3a4f8" />
+<img width="400" height="500" alt="Snipaste_2026-02-19_23-05-44" src="https://github.com/user-attachments/assets/531f2da9-43d2-4586-8250-9f7ec7666179" />
+
 
 
 
@@ -17,3 +18,4 @@ h/ DNS Changer v.1 only available for Windows 11/10 ( Not available for Android 
 Disclaimer: Download h/ DNS Changer Changer OFFICIALLY only available here .
 
 
+<img width="267" height="265" alt="Snipaste_2026-02-16_02-59-03" src="https://github.com/user-attachments/assets/7f786412-945b-4718-841a-41d1c9e3a4f8" />
