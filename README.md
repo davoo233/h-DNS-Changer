@@ -6,7 +6,7 @@ Fully portable with Highest security 👌
  
 <img width="400" height="500" alt="Snipaste_2026-02-19_23-05-44" src="https://github.com/user-attachments/assets/7d28db01-9ba0-4a2b-9200-f284ec13dbe0" /> 
 
-download ➡️  https://github.com/davoo233/h-DNS-Changer/releases/tag/h%2Fdns_changer
+download latest version ➡️ 
 
  
 
