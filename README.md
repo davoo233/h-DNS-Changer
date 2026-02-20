@@ -4,7 +4,7 @@ h/ DNS Changer v1.11 only available for Windows 11/10 ( Not available for Androi
 
  download 🌠 →→→→ →→→→→→→→ →→→→→→
  
- https://github.com/davoo233/h-DNS-Changer/releases/tag/h%2Fdns_changer
+
  
  
 
