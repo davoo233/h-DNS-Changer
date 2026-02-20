@@ -4,12 +4,9 @@ h/ DNS Changer v1.11 only available for Windows 11/10 ( Not available for Androi
 
  download 🌠 →→→→ →→→→→→→→ →→→→→→
  
+<img width="400" height="500" alt="Snipaste_2026-02-19_23-05-44" src="https://github.com/user-attachments/assets/7d28db01-9ba0-4a2b-9200-f284ec13dbe0" />
 
  
- 
-
-
-
 
 
 
