@@ -1,6 +1,6 @@
 ALL IN ONE DNS CHANGER for GAMES
 
-h/ DNS Changer v1.11 only available for Windows 11/10 ( Not available for Android or ios ).✨
+h/ DNS Changer v1.999 Now available for Windows 11/10 ( Not available for Android or ios ).✨
 
 Fully portable with Highest security 👌
  
